@@ -1,17 +1,3 @@
-/* global Element */
-
-/**
- *  The Annoying Site
- *  https://theannoyingsite.com
- *
- *  Author:
- *    Feross Aboukhadijeh
- *    https://feross.org
- *
- *  Patreon:
- *    If you enjoyed this, please support me on Patreon!
- *    https://www.patreon.com/feross
- */
 
 const SCREEN_WIDTH = window.screen.availWidth
 const SCREEN_HEIGHT = window.screen.availHeight
@@ -51,9 +37,12 @@ const ART = [
 ]
 
 const SEARCHES = [
+  'why im a shit runescape player',
   'where should i bury the body',
   'why does my eye twitch',
   'why is my poop green',
+  'why im a bad runescape player',
+  'how to be better in rs',
   'why do i feel so empty',
   'why do i always feel hungry',
   'why do i always have diarrhea',
@@ -69,8 +58,13 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
+  'xDPain.mp4',
   'albundy.mp4',
   'badger.mp4',
+  'rs1.mp4',
+  'rs2.mp4',
+  'rs2.mp4',
+  'pain.mp4',
   'cat.mp4',
   'hasan.mp4',
   'heman.mp4',
@@ -82,18 +76,16 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  'buying-gf.jpg',
+  'wrong.jpg',
+  'nice.jpg',
+  'Kayne.jpg',
+  'wo.jpg',
+  'cat-smirk.jpg'
 ]
 
 const PHRASES = [
+  'Buying gf'
   'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
