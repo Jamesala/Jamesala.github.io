@@ -111,7 +111,7 @@ const PHRASES = [
   'I bet everyone gets nervous having you around their children runescape loser',
   'You are a monke monke, monke monke, monke monke, monke monke',
   'Im glad we can help you stop beeing bad in game lolololo',
-  'Whoa mama! Hummina hummina hummina bazooooooooing! *eyes pop out* AROOOOOOOOGA! *jaw drops tongue rolls out* WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF'
+  'Whoa mama! Hummina hummina hummina bazooooooooing! eyes pop out* AROOOOOOOOGA jaw drops tongue rolls out* WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF WOOF',
   'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
